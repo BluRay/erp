@@ -4,3 +4,6 @@
 3、修改数据库链接文件 /application/config/database.php
 （记得不要用记事本修改，否则可能会出现验证码显示不了问题，建议用Notepad++）
 4、安装好了以后，登陆后台 帐号 admin 密码 010xr.com
+
+AddBy:Yangke 160929
+上传到github
