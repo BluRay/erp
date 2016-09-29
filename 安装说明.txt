@@ -8,9 +8,13 @@
 AddBy:Yangke 160929
 上传到github
 
-pull test
-
 github 操作：
+不想继续追踪某个文件
+git update-index --assume-unchanged your_file_path
+如果想再次继续跟踪某个文件
+git update-index --no-assume-unchanged your_file_path
+
+使用.gitignore文件来忽略文件。[必需在初始化之前编辑此文件]
 
 八、比较提交
 1.比较working directory 和 index:
