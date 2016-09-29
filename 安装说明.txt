@@ -9,3 +9,17 @@ AddBy:Yangke 160929
 上传到github
 
 pull test
+
+github 操作：
+
+八、比较提交
+1.比较working directory 和 index:
+git diff
+2.比较index 和 repository：
+git diff --cached
+3.比较working directory 和 repository:
+git diff HEAD
+4.比较远程分支文件 和 working directory:
+git diff remote/remtoteBranch workingDirectoryFilename
+5.比较两次已提交版本：
+git diff commitCode1 commitCode2
