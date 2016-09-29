@@ -1,9 +1,11 @@
-��װ˵����
-1���ϴ�����վ��Ŀ¼. 
-2����phpMyadmin�������ݿ��ļ�www.010xr.com.sql
-3���޸����ݿ������ļ� /application/config/database.php
-���ǵò�Ҫ�ü��±��޸ģ�������ܻ������֤����ʾ�������⣬������Notepad++��
-4����װ�����Ժ󣬵�½��̨ �ʺ� admin ���� 010xr.com
+安装说明：
+1、上传到网站根目录. 
+2、用phpMyadmin导入数据库文件www.010xr.com.sql
+3、修改数据库链接文件 /application/config/database.php
+（记得不要用记事本修改，否则可能会出现验证码显示不了问题，建议用Notepad++）
+4、安装好了以后，登陆后台 帐号 admin 密码 010xr.com
 
 AddBy:Yangke 160929
-�ϴ���github
+上传到github
+
+pull test
